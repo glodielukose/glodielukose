@@ -1,5 +1,5 @@
 ### Hi there 👋
-hi everyone, my name is glodie nkahsama lukose. i'm passionate about computers and software in particular. The main language i use in software development is javascript, currently i'm learning the react framework. i also have knowledge in html, css and i use tailwindcss to style my web pages. 
+my name is glodie nkahsama lukose. i'm passionate about computers and software in particular. The main language i use in software development is javascript, currently i'm learning the react framework. i also have knowledge in html, css and i use tailwindcss to style my web pages. 
 
 i like to design solutions with the applications i create. i got into computing because i like to create, i like to design new things.
 
