@@ -64,7 +64,7 @@ contribute to projects that empower **communities through digital transformation
 
 ## Connect with Me
  
-- [Portfolio / Website](https://glodielukose.vercel.app/) *(optional, if you have one)*  
+- [Portfolio / Website](https://glodielukose.vercel.app/)  
 - glodielukose@email.com / 22nl411@esisalama.org  
 
 ---
